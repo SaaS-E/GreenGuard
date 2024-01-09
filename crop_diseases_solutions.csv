@@ -1,0 +1,274 @@
+Crop,Disease,Biological Solution,Chemical Solution,Cultural Solution
+apple,apple scab,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+apple,black rot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+apple,cedar apple rust,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+apple,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+blueberry,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+cherry,powdery mildew,"BIOLOGICAL SOLUTION: 
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+cherry,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+corn,gray leaf spot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+corn,cercospora,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+corn,common rust,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+corn,northern leaf blight,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+corn,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+grape,black rot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+grape,esca (black measles),"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+grape,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+grape,leaf blight,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+orange,haunglongbing (citrus greening),"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+peach,bacterial spot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+peach,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+pepper,bacterial spot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+pepper,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+potato,early blight,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+potato,late blight,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+potato,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+raspberry,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+soybean,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+squash,powdery mildew,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+strawberry,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+strawberry,leaf scorch,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,bacterial spot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,early blight,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,healthy,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,late blight,"BIOLOGICAL SOLUTION:    
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,leaf mold,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,septoria leaf spot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,spider mites two spotted spider mite,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,target spot,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,mosaic virus,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"
+tomato,yellow leaf curl virus,"BIOLOGICAL SOLUTION:
+1. Use of Trichoderma harzianum to control fungal diseases
+2. Introduction of ladybugs to combat aphid infestations","CHEMICAL SOLUTION:
+1. Application of Copper-based fungicides (e.g., Bordeaux mixture) for fungal control
+2. Use of Neem oil as a natural pesticide for various pests","CULTURAL SOLUTION:
+1. Implementing crop rotation to reduce disease carryover
+2. Regular pruning and sanitation to remove diseased plant parts"

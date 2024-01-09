@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenGuard | Sowing Health, Growing Happiness!</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style1.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Carter+One&family=Concert+One&family=Kanit:wght@300;500&family=Lobster&family=Lobster+Two:ital@1&family=Londrina+Solid:wght@100&family=Mirza:wght@600&family=Montserrat:wght@600&family=Roboto+Condensed:wght@700&family=Sigmar&family=Vina+Sans&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Carter+One&family=Concert+One&family=Kanit:wght@500&family=Lobster&family=Lobster+Two:ital@1&family=Londrina+Solid:wght@100&family=Mirza:wght@600&family=Sigmar&family=Vina+Sans&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Carter+One&family=Concert+One&family=Dela+Gothic+One&family=Kanit:wght@300;500&family=Lobster&family=Lobster+Two:ital@1&family=Londrina+Solid:wght@100&family=Mirza:wght@600&family=Montserrat:wght@600&family=Roboto+Condensed:wght@700&family=Sigmar&family=Vina+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=League+Gothic&family=League+Spartan:wght@600&family=Montserrat&family=Playfair+Display:ital,wght@1,500&family=Poppins:wght@600&family=Titillium+Web&family=Ysabeau+Infant:wght@200&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/e296fc494b.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/scrollreveal"></script>
+<script src="https://kit.fontawesome.com/e296fc494b.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+    <div id="header1">
+        <div class="container1">
+            <nav>
+                <img src="{{ url_for('static', filename='images/logo.png') }}" class="logo">
+                <ul>
+                    <li><a href="{{ url_for('index') }}">Home </a></li>
+                    <!-- <li><a href="#skills"></a></li> -->
+                    <li><a href="#about">About</a></li>
+{#                    <li><a href="#projects">Projects</a></li>#}
+                    <li><a href="#social-cards">Follow Me</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <hr>
+                   
+                </ul>
+            </nav>
+            <div class="header-text">
+                <h1>GreenGuard.</h1>
+                <h2 class="headdd">Try our AI powered <br>disease detector.</h2>
+            </div>
+
+        </div>
+
+
+
+    </div>
+<!-- ----------------------------------------------------------- -->
+<div id="bod">
+    <section class="container">
+        <h2 class="headdd1">How it works</h2>
+    </section>
+    <div class="instructions">
+        <a href=""><i class="fa-solid fa-mobile"></i></a>
+        <a href=""><i class="fa-solid fa-cloud-arrow-up"></i></a>
+        <a href=""><i class="fa-solid fa-file-lines"></i></a>
+    </div>
+    <h2 class="instr">Click a pic.</h2>
+    <h2 class="instr1">Upload the pic</h2>
+    <h2 class="instr2">Get the final report.</h2>
+
+
+
+    <form method="POST" action="/upload" enctype="multipart/form-data" id="uploadForm">
+    <div class="form">
+        <div class="form-ele">
+            <!-- <h2 for="image" class="upl">Upload Image:</h2> -->
+            <input type="file" name="image" id="imageInput" class="card-cta" >
+        </div>
+
+        <br><br>
+        <!-- Display the model prediction result here -->
+        <section class="result" id="resultSection">
+                <div class="gallery-wrap">
+                    <h2 class="res3">Result:</h2>
+                    <h3 class="res">{{ result }} </h3>
+                    <hr><br><br><br>
+                   <h3 class="res1">{{ solution1 }}</h3><br>
+                    <h3 class="res0">{{ solution2 }}</h3><br>
+                    <h3 class="res00">{{ solution3 }}</h3><br>
+
+                    </div>
+
+            </section>
+
+        <br><br><br>
+
+        <button class="submit" type="submit" onclick="submitForm()">Submit</button>
+    </div>
+
+</form>
+    </div>
+    <hr>
+    <div id="vid">
+    <section class="container">
+        <h2 class="headdd12">Need Help?</h2>
+<iframe class="video" src="https://player.vimeo.com/video/899375958?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1040" height="964" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</section>
+</div>
+<script>
+    function submitForm() {
+        // You can add additional logic here before showing the result section
+
+        // Show the result section
+        document.getElementById('resultSection').style.display = 'block';
+
+        // You may want to submit the form using AJAX if needed
+        // document.getElementById('uploadForm').submit();
+    }
+</script>
+<script>
+    ScrollReveal({
+
+
+distance:'60px',
+duration:2500,
+delay:400
+});
+
+     ScrollReveal().reveal('.header-text,#about,#contact', {delay:500});
+     ScrollReveal().reveal('.wrapper,.social-icons1,.about-col-1,.gallery-wrapper2,.title,.work,.contact', {delay:500, origin:'left'});
+     ScrollReveal().reveal('.image-box,hr,.img-tools,.img-tools1,.img-tools10,.img-tools12,.img-tools2,.img-tools3,.img-tools4,.img-tools5,.img-tools6,.img-tools7,.img-tools8,.img-tools9,.img-tools11,.header-text2,.headdd1,.headdd12', {delay:600, origin:'top'});
+     ScrollReveal().reveal('.btn,.btn0,.btn00,.btn01,btn02,.btn1,.btn2,.btn4,.about-style,.sub-title1', {delay:600,origin:'bottom'});
+     ScrollReveal().reveal('.card0.twitter,.gallery-item2', {delay:200,origin:'left'});
+     ScrollReveal().reveal('.card0.instagram,.instr,.fa-solid fa-mobile', {delay:900,origin:'left'});
+     ScrollReveal().reveal('.card0.facebook,.instr1,.fa-solid fa-cloud-arrow-up', {delay:1600,origin:'left'});
+     ScrollReveal().reveal('.card0.LinkedIn,.instr2,.fa-solid fa-file-lines', {delay:2300,origin:'left'});
+     ScrollReveal().reveal('.gallery-item3', {delay:2000,origin:'right'});
+     ScrollReveal().reveal('nav,.multi,.submit,.video', {delay:1000,origin:'bottom'});
+     ScrollReveal().reveal('nav li,.social-icons1', {delay:2600,origin:'right'});
+     ScrollReveal().reveal('.logo,.result', {delay:2600,origin:'left'});
+
+
+    </script>
+
+
+
+
+
+</body>
+</html>
